@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #4d455d;
+}
+
+.container {
+  margin-top: 30px;
+  text-align: center;
+}
+h1 {
+  padding: 50px 0;
+  color: #ffb100;
+  font-size: 4rem;
+  text-shadow: 5px 0 #000000;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.dicee {
+  display: inline-block;
+  padding: 20px;
+}
+p {
+  color: #ffb100;
+  font-size: 2rem;
+}
+.pl {
+  width: 80%;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 3.1rem;
+  text-align: center;
+}
+
+a {
+  font-size: 1.4rem;
+  color: #ffebb7;
+  text-decoration: none;
+}
